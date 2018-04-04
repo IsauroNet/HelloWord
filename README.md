@@ -5,4 +5,4 @@ He programado en lenguaje C durante mucho tiempo pero he descubierto Python y me
 Un lenguaje interpretado, que da respuesta inmediata a las instruciones que tecleas, y ademas sorprendentemente expresivo.
 Programar se convierte en algo natural y todo un placer.
 
-Una nueva modificación que debera ser verificada antes de subir a master
+

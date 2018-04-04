@@ -3,4 +3,6 @@ Repositorio de iniciación a las funcionalidades básicas de la plataforma GitHu
 
 He programado en lenguaje C durante mucho tiempo pero he descubierto Python y me ha cautivado.
 Un lenguaje interpretado, que da respuesta inmediata a las instruciones que tecleas, y ademas sorprendentemente expresivo.
-Programar se convierte en algo natural y todo un placer 
+Programar se convierte en algo natural y todo un placer.
+
+Una nueva modificación que debera ser verificada antes de subir a master
